@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>failed_login_user2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d632f58e-1eb6-4a1b-ab8b-f58bffe38fc0</testCaseGuid>
+</TestCaseEntity>
