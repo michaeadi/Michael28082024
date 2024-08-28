@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Affiliate_sign_up</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>682b4973-91ca-4e08-a01d-3cf8a28fb75f</testCaseGuid>
+</TestCaseEntity>
